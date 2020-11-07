@@ -1,14 +1,10 @@
-### E-Mail debunkfraud@gmail.com with information you would like to see added.
+### 📫 E-Mail debunkfraud@gmail.com with information you would like to see added.
 
-### Claim Summary: 
-60,000 votes were swapped from Trump to Biden by a glitch in vote machines.
+🤔 60,000 votes were swapped from Trump to Biden by a glitch in vote machines.
 
-### Claim "Source" example
-
-### Truth:
+⚡ 
 
 
-### Truth Source
 
 <!--
 **debunkfraud/debunkfraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
