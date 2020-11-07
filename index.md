@@ -2,9 +2,10 @@
 
 ## 🤔  A dead man named William Bradley voted in Michigan?
 
-## ⚡ On rare occasions, a ballot received for a living voter may be recorded in a way that makes it appear as if the voter is dead. This can be because of voters with similar names, where the ballot is accidentally recorded as voted by John Smith Sr when it was actually voted by John Smith Jr; or because of inaccurately recorded birth dates in the qualified voter file; for example, someone born in 1990 accidentally recorded as born in 1890. In such scenarios, no one ineligible has actually voted, and there is no impact on the outcome of the election. Local clerks can correct the issue when it is brought to their attention.
+## ⚡ His son with the same name did. Sometimes there are errors where two people with the same name and address will be registered incorrectly, this is obviously exceedingly rare.
 
--  Source: Michigan Secretary of State: https://www.michigan.gov/sos/0,4670,7-127-1633_100423_102534_102535---,00.html
+- Source: Michigan Secretary of State: https://www.michigan.gov/sos/0,4670,7-127-1633_100423_102534_102535---,00.html
+- Source: Phone interview with William Bradley himself https://www.politifact.com/factchecks/2020/nov/05/facebook-posts/no-dead-voter-named-william-bradley-didnt-vote-det/
 
 
 ## 🤔 60,000 votes were swapped from Trump to Biden by a glitch in vote machines?
