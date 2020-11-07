@@ -1,7 +1,17 @@
 ### 📫 E-Mail debunkfraud@gmail.com with information you would like to see added.
 
-🤔 60,000 votes were swapped from Trump to Biden by a glitch in vote machines.
+# 🤔  A dead man named William Bradley voted in Michigan?
 
+<img src="https://raw.githubusercontent.com/debunkfraud/debunkfraud/main/WilliamB.PNG" width=50% height=50%>
+
+## ⚡ On rare occasions, a ballot received for a living voter may be recorded in a way that makes it appear as if the voter is dead. This can be because of voters with similar names, where the ballot is accidentally recorded as voted by John Smith Sr when it was actually voted by John Smith Jr; or because of inaccurately recorded birth dates in the qualified voter file; for example, someone born in 1990 accidentally recorded as born in 1890. In such scenarios, no one ineligible has actually voted, and there is no impact on the outcome of the election. Local clerks can correct the issue when it is brought to their attention.
+
+
+
+
+
+
+# 🤔 60,000 votes were swapped from Trump to Biden by a glitch in vote machines?
 ⚡ 
 
 
