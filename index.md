@@ -14,6 +14,12 @@
 - Source: Michigan Secretary of State https://www.michigan.gov/sos/0,4670,7-127--544676--,00.html
 
 
+### 🤔 Republican poll watchers were barred from entering a Detroit ballot count.
+⚡  Both Republican and Democratic poll watchers were barred from entering. There was a 134 person maximum for poll watchers the building, and accidentally over 200 per party were let in. When some left the building for a break or food they were not allowed back in due to the over-max counts.
+
+- Source: Reuters https://www.reuters.com/article/us-usa-election-michigan/michigan-still-counting-votes-angry-poll-watchers-barred-in-detroit-trump-sues-idUSKBN27K2AQ
+- Source: Detroit News https://www.detroitnews.com/story/news/politics/2020/11/04/poll-challengers-converge-detroit-amid-close-election-results/6161484002/
+
 ### 📫 E-Mail debunkfraud@gmail.com with information you would like to see added.
 
 
