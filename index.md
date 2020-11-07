@@ -1,4 +1,4 @@
-### 📫 E-Mail debunkfraud@gmail.com with information you would like to see added.
+
 
 ### 🤔  A dead man named William Bradley voted in Michigan?
 
@@ -12,6 +12,9 @@
 ⚡  The 6000 vote swap was only for data the software produced for unofficial results, and this error only occurs when the software wasn't updated to the latest version. Even on outdated versions a seperate tabulation is stored by the software for internal official use and this version did not swap the votes.
 
 - Source: Michigan Secretary of State https://www.michigan.gov/sos/0,4670,7-127--544676--,00.html
+
+
+### 📫 E-Mail debunkfraud@gmail.com with information you would like to see added.
 
 
 
