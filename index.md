@@ -29,6 +29,12 @@ Marcus replied, “yes."
 
 - Source: NBC News https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-05-trump-biden-election-results-n1246510/ncrd1246694?__twitter_impression=true#blogHeader
 
+### 🤔 An analysis of votes using Benford's Law reveals fraud?
+⚡ Analyzing fraud with Benford's law is not defacto proof of fraud. Benford's law makes assumptions about the underlying distribution of data - the nature of uneven distribution of R and D voters between rural and urban counties violates this assumption.
+
+- Source: Election Integrity Partnership (University of Washington) https://www.eipartnership.net/rapid-response/what-the-election-results-dont-tell-us
+
+
 ### 📫 E-Mail debunkfraud@gmail.com with information you would like to see added.
 
 
