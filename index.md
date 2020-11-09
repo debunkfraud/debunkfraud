@@ -27,7 +27,7 @@ The judge wanted to know if the Trump campaign was allowed in the room even if o
 
 Marcus replied, “yes."
 
-- Source: https://www.washingtonpost.com/politics/2020/11/06/power-up-2020-election-may-end-today-challenges-wont/
+- Source: NBC News https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-05-trump-biden-election-results-n1246510/ncrd1246694?__twitter_impression=true#blogHeader
 
 ### 📫 E-Mail debunkfraud@gmail.com with information you would like to see added.
 
