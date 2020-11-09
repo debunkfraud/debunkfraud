@@ -20,7 +20,7 @@
 - Source: Reuters https://www.reuters.com/article/us-usa-election-michigan/michigan-still-counting-votes-angry-poll-watchers-barred-in-detroit-trump-sues-idUSKBN27K2AQ
 - Source: Detroit News https://www.detroitnews.com/story/news/politics/2020/11/04/poll-challengers-converge-detroit-amid-close-election-results/6161484002/
 
-### 🤔 A Republican poll watcher was not allowed to watch in Philedelphia?
+### 🤔 A Republican poll watcher was not allowed to watch in Philadelphia?
 ⚡  An attorney for the Trump campaign argued that one campaign observer was not allowed in saying he was left to “twiddle his thumbs” before it became clear he would not be allowed in.
 
 The judge wanted to know if the Trump campaign was allowed in the room even if one particular person wasn’t. Trump’s attorney waffled and the judge pressed him, “I am asking you as a member of the bar of this court are people representing  the Donald J. Trump for President in that room?”
