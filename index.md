@@ -38,6 +38,10 @@ Marcus replied, “yes."
 ⚡ A poll worker in Nevada claims he saw people filling in ballots on the side of a van used by the Biden campaign in a nearby parking lot. While the worker did make these claims in a signed affadavit the claims have yet to be substantiated.
 - Source: Affadavit via Washington Examiner https://www.washingtonexaminer.com/news/nevada-whistleblower-describes-biden-van-vote-factory-in-signed-affidavit
 
+### 🤔 USPS in Pensyllvania backdated late mail in ballots?
+⚡ A postal worker in Erie, Pennsylvania claims he was asked to pick up ballots after November 3rd, and deliver them to the postmaster. He also claims he overheard the postmaster talking about backdating ballots from the 4th to the 3rd. While the worker did make these claims in a signed affadavit the claims have yet to be substantiated by other workers in his facility.
+
+-Source: Copy of Affadavit: https://twitter.com/jamesokeefeiii/status/1325268253241913346
 
 
 
