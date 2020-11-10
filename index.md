@@ -34,6 +34,12 @@ Marcus replied, “yes."
 
 - Source: Election Integrity Partnership (University of Washington) https://www.eipartnership.net/rapid-response/what-the-election-results-dont-tell-us
 
+### 🤔 There was a Biden van full of ballots on Nevada?
+⚡ A poll worker in Nevada claims he saw people filling in ballots on the side of a van used by the Biden campaign in a nearby parking lot. While the worker did make these claims in a signed affadavit the claims have yet to be substantiated.
+- Source: Affadavit via Washington Examiner https://www.washingtonexaminer.com/news/nevada-whistleblower-describes-biden-van-vote-factory-in-signed-affidavit
+
+
+
 
 ### 📫 E-Mail debunkfraud@gmail.com with information you would like to see added.
 
